@@ -1,9 +1,9 @@
 const config = {
   // Authentication
   // Enable password protection and configure authorized users.
-  challenge: false,
+  challenge: true,
   users: {
-    interstellar: "password",
+    interstellar: "onlyme",
   },
 
   // Blocked Domains
